@@ -18,9 +18,11 @@
       <h2 class = "course teacher"> Dr. Stephanie Smith</h2>
 
         <p class="introduction">A writing intensive course focused on introducing the student to various writing approaches within the practice of PR.</p>
-        <p> The objectives of the course are the following</p>
+        <p> The objectives of the course are the following:</p>
           <ul>
             <li>To write news releases, media advisories and story pitches to support publicity objectives.</li>
             <li>Develop backgrounders, fact sheets, biographies and media kits for organizational campaigns.</li>
             <li>Present and develop messages for targeted audiences using various methods and channels of communication.</li>
-            
+          </ul>
+        <p class="expected grade"> Hopefully an A!</p>
+      
